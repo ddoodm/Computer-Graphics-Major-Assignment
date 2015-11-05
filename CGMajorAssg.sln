@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part1_Icosahedron", "Part1_Icosahedron\Part1_Icosahedron.vcxproj", "{945316CE-8415-4F3F-971A-063E0E898679}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part3_ModelLoader", "Part3_ModelLoader\Part3_ModelLoader.vcxproj", "{EAE1E164-5633-4CF1-B480-FA14505556F5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part2_TychoBrahe", "Part2_TychoBrahe\Part2_TychoBrahe.vcxproj", "{8BCE2D22-E3C3-4684-BB5C-51405F8A96D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945316CE-8415-4F3F-971A-063E0E898679}.Debug|Win32.ActiveCfg = Debug|Win32
+		{945316CE-8415-4F3F-971A-063E0E898679}.Debug|Win32.Build.0 = Debug|Win32
+		{945316CE-8415-4F3F-971A-063E0E898679}.Release|Win32.ActiveCfg = Release|Win32
+		{945316CE-8415-4F3F-971A-063E0E898679}.Release|Win32.Build.0 = Release|Win32
+		{EAE1E164-5633-4CF1-B480-FA14505556F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EAE1E164-5633-4CF1-B480-FA14505556F5}.Debug|Win32.Build.0 = Debug|Win32
+		{EAE1E164-5633-4CF1-B480-FA14505556F5}.Release|Win32.ActiveCfg = Release|Win32
+		{EAE1E164-5633-4CF1-B480-FA14505556F5}.Release|Win32.Build.0 = Release|Win32
+		{8BCE2D22-E3C3-4684-BB5C-51405F8A96D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BCE2D22-E3C3-4684-BB5C-51405F8A96D2}.Debug|Win32.Build.0 = Debug|Win32
+		{8BCE2D22-E3C3-4684-BB5C-51405F8A96D2}.Release|Win32.ActiveCfg = Release|Win32
+		{8BCE2D22-E3C3-4684-BB5C-51405F8A96D2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
