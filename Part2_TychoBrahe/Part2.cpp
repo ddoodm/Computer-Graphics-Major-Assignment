@@ -18,7 +18,7 @@
 
 #include <iostream>
 #include <math.h>
-#include <glut.h>
+#include <GL\glut.h>
 
 #include <vec3.h>		// Custom geometric vector library
 #include <bmpLoader.h>	// Custom BMP parser
